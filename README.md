@@ -3,6 +3,6 @@ The solution helps to predict based on several properties of the borrower to det
 
 
 <figure style="float:display:block; margin-left: auto; margin-right: auto;">
-	<img src="pipeline.jpg" alt="" width="100%">
+	<img src="images/pipeline.jpg" alt="" width="100%">
 </figure>
 <div style="clear:both">
