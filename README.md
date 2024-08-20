@@ -12,3 +12,7 @@ The solution helps to predict based on several properties of the borrower to det
 I tested many ways of predicting the results. Check my solution more detailed in the *.ipynb. 
 Briefly - the best model gave me 86.5 AUC-ROC score by LightGBM. Also, suprisingly by GridSearching
 I achieved also quite impressive results.
+
+# Note:
+For more comfortable usage, please download the results. Unfortunately, due to the jupyter bug it shows all
+traceback of gridsearchCV and CatBoost what is uncomfortable. Check this out locally, because nodes will be closed automatically!
